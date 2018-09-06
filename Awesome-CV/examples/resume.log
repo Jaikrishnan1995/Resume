@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.6.15)  27 JUN 2018 20:18
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.6.15)  6 SEP 2018 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1205,6 +1205,9 @@ LaTeX Info: Redefining \nameref on input line 53.
 
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
+\photodim=\skip81
+File: ./examples/profile.jpeg Graphic file (type bmp)
+<./examples/profile.jpeg>
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.95015pt on input line 57.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1217,6 +1220,10 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.6784pt on input line 57.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.45381pt on input line 57.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 32.0pt on input line 57.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
+(Font)              scaled to size 32.0pt on input line 57.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 57.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
@@ -1226,7 +1233,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 57.
 
-Overfull \hbox (1.46pt too wide) in paragraph at lines 57--58
+Overfull \hbox (1.45999pt too wide) in paragraph at lines 57--58
 []$[]$ $[]$$[]$
  []
 
@@ -1286,12 +1293,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 38146 strings out of 493007
- 751525 string characters out of 6136719
- 960645 words of memory out of 5000000
- 41621 multiletter control sequences out of 15000+600000
- 532762 words of font info for 87 fonts, out of 8000000 for 9000
+ 38221 strings out of 493007
+ 753660 string characters out of 6136719
+ 960732 words of memory out of 5000000
+ 41690 multiletter control sequences out of 15000+600000
+ 532778 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,89p,10507b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,89p,10507b,785s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on examples/resume.pdf (2 pages).
