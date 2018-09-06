@@ -1,0 +1,25 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Bachelor of Technology in Electronics and Communication} % Degree
+    {(M G University - Adi Shankara Institute of Engineering Technology)} % Institution
+    {Cochin, India} % Location
+    {May 2013 - May. 2017} % Date(s)
+    {
+      \begin{cvitems} % Description(s) bullet points
+        \item {.....}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}
