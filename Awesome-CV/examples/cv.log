@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.6.15)  7 SEP 2018 01:51
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.25)  9 MAR 2019 01:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1225,9 +1225,9 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 32.0pt on input line 68.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 68.
+(Font)              scaled to size 8.0pt on input line 68.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 7.6pt on input line 68.
+(Font)              scaled to size 8.0pt on input line 68.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 68.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
@@ -1239,9 +1239,9 @@ Overfull \hbox (1.45999pt too wide) in paragraph at lines 68--68
 
 (examples/cv/education.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 4.
+(Font)              scaled to size 15.0pt on input line 4.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 16.0pt on input line 4.
+(Font)              scaled to size 15.0pt on input line 4.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
@@ -1254,10 +1254,6 @@ able
 t line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 22.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 22.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
@@ -1276,9 +1272,9 @@ Overfull \hbox (24.8379pt too wide) in alignment at lines 10--28
 ]) (examples/cv/extracurricular.tex)
 (examples/cv/honors.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 10.
+(Font)              scaled to size 13.0pt on input line 10.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 10.
+(Font)              scaled to size 13.0pt on input line 10.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
  [2]) (examples/cv/presentation.tex)
@@ -1290,11 +1286,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 92.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 38222 strings out of 493007
- 753541 string characters out of 6136719
- 966719 words of memory out of 5000000
- 41690 multiletter control sequences out of 15000+600000
- 532778 words of font info for 89 fonts, out of 8000000 for 9000
+ 38218 strings out of 493007
+ 753320 string characters out of 6136718
+ 966713 words of memory out of 5000000
+ 41688 multiletter control sequences out of 15000+600000
+ 532762 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,12n,89p,10430b,785s stack positions out of 5000i,500n,10000p,200000b,80000s
 
